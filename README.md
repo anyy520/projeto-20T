@@ -1,1 +1,1 @@
-# projeto-20T
+# projeto-20T  JOGO_COMPATÍVEL_COM_DISPOSITIVO_MÓVEL
